@@ -104,3 +104,36 @@ body,html {
     }
     
 }
+
+@media only screen and (max-width:550px) {
+
+    .input-holder {
+        padding: 3%;
+        margin-top: 3%;
+    }
+
+    .display-4{
+        font-size: 3rem;
+        margin:0;
+        margin-left: 5px;
+    }
+
+    .h5 {
+        font-size: 1.5rem;
+    }
+
+    .display {
+        font-size: 1.3rem;
+        margin-top: 9%;
+        margin-bottom: 6%;
+    }
+
+    #inputText {
+        margin-top: 6%;
+        margin-bottom: 3%;
+    }
+    .heading-img {
+        height: 4.5rem;
+    }
+    
+}
